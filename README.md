@@ -1,9 +1,10 @@
-<h1 align="center" style="color: #38bdf8;">Trần Nhã Phương</h1>
+<h1 align="center" style="color: #d8b4fe;">Trần Nhã Phương</h1>
 
 <p align="center">Building scalable web applications from clean databases to seamless full-stack deployment.</p>
 
 <p align="center">
   <a href="https://github.com/RyanTran-825"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="[https://facebook.com](https://www.facebook.com/share/1LBH7v2RA1/)"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="mailto:nhaphuong.754467@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -74,14 +75,14 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanTran-825&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTran-825&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RyanTran-825&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RyanTran-825&layout=compact&theme=dracula&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanTran-825&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanTran-825&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RyanTran-825&label=Profile%20Views&color=0e75a0&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RyanTran-825&label=Profile%20Views&color=ce93d8&style=flat" alt="Profile Views" />
 </p>
