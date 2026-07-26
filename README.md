@@ -1,33 +1,87 @@
-# Hi there, I'm Tran Nha Phuong 👋
+<h1 align="center" style="color: #38bdf8;">Trần Nhã Phương</h1>
 
-A passionate **Full-stack Developer** and 3rd-year IT student at Ho Chi Minh City University of Industry and Trade (HUIT). I focus on building scalable web applications and exploring modern software solutions.
-
----
-
-### 🛠 Tech Stack
-
-**Languages & Frameworks:**
-- C# (.NET / ASP.NET MVC) | Java (Spring Boot) | Python (Flask) | Dart (Flutter)
-- HTML5 | CSS3 | JavaScript | Bootstrap
-
-**Databases & Tools:**
-- SQL Server | MySQL | SQLite
-- Git | GitHub | Postman | RESTful APIs
-
----
-
-### 📊 GitHub Stats
+<p align="center">Building scalable web applications from clean databases to seamless full-stack deployment.</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanTran-825&show_icons=true&theme=tokyonight" alt="RyanTran-825's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTran-825&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/RyanTran-825"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:nhaphuong.754467@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<p align="center"><i>Build systems, solve real problems.</i></p>
+
+## About
+
+* Ho Chi Minh City University of Industry and Trade (HUIT)
+* Information Technology · Year 3
+* Ho Chi Minh City, Vietnam
+* Full-stack Intern · Backend Developer
+* Focused on ASP.NET, Spring Boot, RESTful APIs, and relational databases
 
 ---
 
-### 📬 Connect with Me
+## Tech Ecosystem
 
-- **Email:** nhaphuong.754467@gmail.com
-- **GitHub:** [RyanTran-825](https://github.com/RyanTran-825)
-- **Location:** Ho Chi Minh City, Vietnam
+<table>
+  <tr>
+    <td width="33%">
+      <b>Languages</b><br><br>
+      <img src="https://skillicons.dev/icons?i=cs,java,python,js,html,css,dart" height="35" />
+    </td>
+    <td width="33%">
+      <b>Backend / Frontend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=dotnet,spring,flask,flutter,bootstrap" height="35" />
+    </td>
+    <td width="33%">
+      <b>Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="35" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Tools / Version Control</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,postman" height="35" />
+    </td>
+    <td>
+      <b>IDE / Editors</b><br><br>
+      <img src="https://skillicons.dev/icons?i=visualstudio,vscode" height="35" />
+    </td>
+    <td>
+      <b>AI & Services</b><br><br>
+      <code>Gemini API</code> · <code>RESTful API</code> · <code>TCP Sockets</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="20%"><b>CORE</b></td>
+    <td>C# · ASP.NET MVC · SQL Server · Git</td>
+  </tr>
+  <tr>
+    <td><b>PRODUCTION</b></td>
+    <td>Java · Spring Boot · Flask · MySQL · RESTful API · Entity Framework</td>
+  </tr>
+  <tr>
+    <td><b>WORKING KNOWLEDGE</b></td>
+    <td>Python · Dart · Flutter · JavaScript · HTML · CSS · SQLite · Postman · Gemini API · TCP Sockets</td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanTran-825&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTran-825&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanTran-825&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RyanTran-825&label=Profile%20Views&color=0e75a0&style=flat" alt="Profile Views" />
+</p>
