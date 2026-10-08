@@ -17,7 +17,7 @@
 ## About
 
 * Ho Chi Minh City University of Industry and Trade (HUIT)
-* Information Technology · Year 3
+* Information Technology · Year 4
 * Ho Chi Minh City, Vietnam
 * Full-stack Intern · Backend Developer
 * Focused on ASP.NET, Spring Boot, RESTful APIs, and relational databases
@@ -87,6 +87,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanTran-825&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RyanTran-825&label=Profile%20Views&color=D8B4FE&style=for-the-badge" alt="Profile Views" />
-</p>
