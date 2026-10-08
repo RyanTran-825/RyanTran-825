@@ -79,11 +79,6 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RyanTran-825&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RyanTran-825&layout=compact&theme=dracula&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanTran-825&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
