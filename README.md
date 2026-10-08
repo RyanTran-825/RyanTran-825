@@ -88,5 +88,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RyanTran-825&label=Profile%20Views&color=ce93d8&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RyanTran-825&label=Profile%20Views&color=D8B4FE&style=for-the-badge" alt="Profile Views" />
 </p>
