@@ -1,84 +1,126 @@
+
+# Hi, I'm Tran Nha Phuong
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=D8B4FE&center=true&vcenter=true&width=400&lines=Tran+Nha+Phuong" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=93C5FD&center=true&vCenter=true&width=600&lines=Tran+Nha+Phuong;Backend+Developer;Full-stack+Development" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">Building scalable web applications from clean databases to seamless full-stack deployment.</p>
-
 <p align="center">
-  <a href="https://github.com/RyanTran-825"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.facebook.com/share/1LBH7v2RA1/"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:nhaphuong.754467@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <b>Information Technology Student | Backend & Full-stack Development</b>
 </p>
 
-<p align="center"><i>Build systems, solve real problems.</i></p>
+<p align="center">
+  Building thoughtful web experiences, one line of code at a time.
+</p>
 
-## About
-
-* Ho Chi Minh City University of Industry and Trade (HUIT)
-* Information Technology · Year 4
-* Ho Chi Minh City, Vietnam
-* Full-stack Intern · Backend Developer
-* Focused on ASP.NET, Spring Boot, RESTful APIs, and relational databases
+<p align="center">
+  <a href="https://github.com/RyanTran-825"><img src="https://img.shields.io/badge/GitHub-DBEAFE?style=for-the-badge&logo=github&logoColor=1E3A5F" /></a>
+  <a href="https://www.facebook.com/share/1LBH7v2RA1/"><img src="https://img.shields.io/badge/Facebook-DBEAFE?style=for-the-badge&logo=facebook&logoColor=1877F2" /></a>
+  <a href="mailto:nhaphuong.754467@gmail.com"><img src="https://img.shields.io/badge/Email-DBEAFE?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+</p>
 
 ---
 
-## Tech Ecosystem
+## About Me
 
-<table>
-  <tr>
-    <td width="33%">
-      <b>Languages</b><br><br>
-      <img src="https://skillicons.dev/icons?i=cs,java,python,js,html,css,dart" height="35" />
-    </td>
-    <td width="33%">
-      <b>Backend / Frontend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=dotnet,spring,flask,flutter,bootstrap" height="35" />
-    </td>
-    <td width="33%">
-      <b>Databases</b><br><br>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="35" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Tools / Version Control</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,postman" height="35" />
-    </td>
-    <td>
-      <b>IDE / Editors</b><br><br>
-      <img src="https://skillicons.dev/icons?i=visualstudio,vscode" height="35" />
-    </td>
-    <td>
-      <b>AI & Services</b><br><br>
-      <code>Gemini API</code> · <code>RESTful API</code> · <code>TCP Sockets</code>
-    </td>
-  </tr>
-</table>
+I'm a fourth-year Information Technology student at **Ho Chi Minh City University of Industry and Trade (HUIT)**, based in Ho Chi Minh City, Vietnam.
 
-<br>
+I enjoy developing web applications, exploring database architectures, and turning ideas into functional systems. My main interests are **backend development, RESTful APIs, database design, and full-stack applications**.
 
-<table>
-  <tr>
-    <td width="20%"><b>CORE</b></td>
-    <td>C# · ASP.NET MVC · SQL Server · Git</td>
-  </tr>
-  <tr>
-    <td><b>PRODUCTION</b></td>
-    <td>Java · Spring Boot · Flask · MySQL · RESTful API · Entity Framework</td>
-  </tr>
-  <tr>
-    <td><b>WORKING KNOWLEDGE</b></td>
-    <td>Python · Dart · Flutter · JavaScript · HTML · CSS · SQLite · Postman · Gemini API · TCP Sockets</td>
-  </tr>
-</table>
+- Currently exploring multi-model NoSQL architecture and cloud deployment.
+- Working with ASP.NET, Spring Boot, Express.js, and Next.js.
+- Interested in Backend Developer and Full-stack Internship opportunities.
+- Always learning through hands-on projects.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,python,js,ts,html,css,dart&perline=8" />
+</p>
+
+### Frameworks & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,express,nextjs,react,flask,bootstrap,flutter&perline=9" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,neo4j,postgres,mysql,sqlite&perline=6" />
+</p>
+
+Also worked with **SQL Server, Apache Cassandra / Astra DB, and Entity Framework**.
+
+### Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,visualstudio,vscode,vercel&perline=7" />
+</p>
+
+Cloud services: **MongoDB Atlas · Neo4j AuraDB · Upstash Redis · Cloudinary · Render · Vercel**
+
+---
+
+## Featured Projects
+
+### Rido Reading Platform
+
+A Wattpad-inspired reading and publishing platform built with a multi-model NoSQL architecture.
+
+**Tech stack:** Next.js · TypeScript · Express.js · MongoDB · Redis · Neo4j · Astra DB · Docker
+
+- Designed a platform for reading, publishing, and managing stories.
+- Integrated multiple database models for different application needs.
+- Worked with authentication, RESTful APIs, image hosting, and cloud deployment.
+- Deployed frontend and backend using Vercel and Render.
+
+**Live Website:** [Rido Reading Platform](https://rido-reading-platform.vercel.app)
+
+### HRGraph — Human Resource Graph Database
+
+A human-resource management project exploring graph data modeling and queries.
+
+**Tech stack:** Java · Neo4j · Maven
+
+- Modeled relationships between employees, departments, and projects.
+- Practiced Cypher queries and graph database operations.
+- Explored graph-based data retrieval and relationship management.
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanTran-825&theme=react-dark&hide_border=true" width="100%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanTran-825&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=60A5FA&text_color=64748B&icon_color=93C5FD" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTran-825&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=60A5FA&text_color=64748B" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanTran-825&bg_color=FFFFFF&color=64748B&line=93C5FD&point=60A5FA&area=true&area_color=DBEAFE&hide_border=true" width="100%" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  Open to learning, collaborating, and building meaningful projects.
+</p>
+
+<p align="center">
+  <a href="mailto:nhaphuong.754467@gmail.com">Email</a> ·
+  <a href="https://github.com/RyanTran-825">GitHub</a> ·
+  <a href="https://www.facebook.com/share/1LBH7v2RA1/">Facebook</a>
+</p>
+
+<p align="center">
+  <sub>Made with curiosity, consistency, and a little bit of blue.</sub>
+</p>
+  
