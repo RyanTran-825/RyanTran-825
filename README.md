@@ -95,16 +95,22 @@ A human-resource management project exploring graph data modeling and queries.
 
 ---
 
+
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanTran-825&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=60A5FA&text_color=64748B&icon_color=93C5FD" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTran-825&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=60A5FA&text_color=64748B" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=RyanTran-825&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=60A5FA&text_color=64748B&icon_color=93C5FD"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RyanTran-825&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=60A5FA&text_color=64748B"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanTran-825&bg_color=FFFFFF&color=64748B&line=93C5FD&point=60A5FA&area=true&area_color=DBEAFE&hide_border=true" width="100%" />
-</p>
 
 ---
 
